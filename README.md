@@ -13,3 +13,10 @@ Add your site url in remote site settings.
 
 **Their is everything in this repository u need to set up webhooks and callouts for integrating quickbooks with salesforce.**
 
+**Facing any problem while integrating**
+Connect With me
+Prateek Joshi
+(Freelance Salesforce Developer/Expert)
+(trzprateeksfdc@gmail.com)
+
+
