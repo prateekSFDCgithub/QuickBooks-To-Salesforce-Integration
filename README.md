@@ -17,7 +17,7 @@ You have to add this site's url and the callbackurl u get from auth provider in 
 
 **f)Email Sender CLass**(notify accounts contact that transaction has been made and tracj the sended email in contacts activity)
 
-*g)Email CApture Class**(in case contact reply back to the transactione email then capture that and show in contacts activity)
+**g)Email CApture Class**(in case contact reply back to the transactione email then capture that and show in contacts activity)
 
 **h)Remote Site Setting**(Add your site url in remote site settings.)
 
