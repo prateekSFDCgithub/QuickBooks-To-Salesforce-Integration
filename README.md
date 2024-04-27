@@ -23,14 +23,12 @@ You have to add this site's url and the callbackurl u get from auth provider in 
 
 **Their is everything in this repository u need to set up webhooks and callouts for integrating quickbooks with salesforce.**
 
-# Facing any problem while integrating
-
-**Connect With me**
+**Facing any problem in implementing? Feel free to contact:**
 
 **Prateek Joshi**
 
-(**Freelance Salesforce Developer/Expert**)
+**(Salesforce Developer and Expert)**
 
-(**trzprateeksfdc@gmail.com**)
+**(trzprateeksfdc@gmail.com)**
 
 
